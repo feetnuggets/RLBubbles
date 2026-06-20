@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:wolf",
+      "text": "*sniff sniff*"
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:wolf",
+      "text": "*growls softly*"
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:wolf",
+      "conditions": {
+        "nearby": [
+          "hostile"
+        ]
+      },
+      "text": "Something is nearby."
+    }
+  ]
+}

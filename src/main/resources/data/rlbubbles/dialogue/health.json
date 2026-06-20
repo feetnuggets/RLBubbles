@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "weight": 5,
+      "conditions": {
+        "health": "injured"
+      },
+      "text": "I'm hurt..."
+    },
+    {
+      "weight": 6,
+      "conditions": {
+        "health": "critical"
+      },
+      "text": "I can't take much more!"
+    },
+    {
+      "weight": 3,
+      "rare": true,
+      "conditions": {
+        "health": "critical"
+      },
+      "text": "This is the end..."
+    }
+  ]
+}

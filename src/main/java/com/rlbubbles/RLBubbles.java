@@ -18,6 +18,14 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * RLBubbles main entry point (Forge 1.20.1).
+ *
+ * Architecture:
+ *  - Server holds the DialogueRegistry + DialogueManager, ticks the manager, broadcasts lines.
+ *  - DialogueLoader (a reload listener) fills the registry from datapacks.
+ *  - Clients receive ShowBubblePackets and render floating text only.
+ */
 @Mod(RLBubbles.MOD_ID)
 public class RLBubbles {
 

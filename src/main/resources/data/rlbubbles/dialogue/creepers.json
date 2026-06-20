@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:creeper",
+      "text": "Hey."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:creeper",
+      "text": "Come closer."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:creeper",
+      "text": "Trust me."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:creeper",
+      "text": "One more step."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:creeper",
+      "rare": true,
+      "text": "This will be funny."
+    }
+  ]
+}

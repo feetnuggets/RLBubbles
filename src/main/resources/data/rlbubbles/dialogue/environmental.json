@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "weight": 4,
+      "conditions": {
+        "time": "night"
+      },
+      "text": "Something is watching."
+    },
+    {
+      "weight": 3,
+      "conditions": {
+        "time": "night"
+      },
+      "text": "Do not look behind you."
+    },
+    {
+      "weight": 3,
+      "conditions": {
+        "time": "night"
+      },
+      "text": "The darkness feels wrong."
+    },
+    {
+      "weight": 4,
+      "conditions": {
+        "weather": "thunder"
+      },
+      "text": "The storm feels unnatural."
+    },
+    {
+      "weight": 4,
+      "conditions": {
+        "biome": "minecraft:desert"
+      },
+      "text": "Dragons love deserts."
+    },
+    {
+      "weight": 4,
+      "conditions": {
+        "biome": "minecraft:ocean"
+      },
+      "text": "The sea is hungry."
+    }
+  ]
+}

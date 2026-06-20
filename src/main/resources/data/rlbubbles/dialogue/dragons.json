@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:ender_dragon",
+      "text": "Tiny mortal."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:ender_dragon",
+      "text": "Burn."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:ender_dragon",
+      "text": "Run while you still can."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:ender_dragon",
+      "text": "This realm belongs to me."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:ender_dragon",
+      "rare": true,
+      "text": "I remember the First Age."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:ender_dragon",
+      "rare": true,
+      "text": "You are already doomed."
+    }
+  ]
+}

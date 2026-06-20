@@ -1,0 +1,45 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:zombie",
+      "text": "Hungry."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:zombie",
+      "text": "Need brains."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:zombie",
+      "text": "Cold..."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:zombie",
+      "text": "Where am I?"
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:zombie",
+      "rare": true,
+      "text": "I used to be an adventurer."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:zombie_villager",
+      "text": "Hungry."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:husk",
+      "text": "So thirsty..."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:drowned",
+      "text": "Join us."
+    }
+  ]
+}

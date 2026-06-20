@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "weight": 2,
+      "text": "*looks around*"
+    },
+    {
+      "weight": 2,
+      "text": "*thinking*"
+    },
+    {
+      "weight": 1,
+      "text": "*suspicious noises*"
+    },
+    {
+      "weight": 1,
+      "text": "*stares intensely*"
+    },
+    {
+      "weight": 2,
+      "text": "*wanders aimlessly*"
+    }
+  ]
+}

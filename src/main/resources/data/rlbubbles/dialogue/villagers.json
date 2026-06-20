@@ -1,0 +1,70 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "The dragon took my brother."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "You should carry a recall potion."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "Stay away from the ocean."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "The last adventurer never came back."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "I heard a roar last night."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "You look underprepared."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "Another grave marker..."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "text": "Skill issue."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:villager",
+      "conditions": {
+        "time": "day"
+      },
+      "text": "The crops look healthy today."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:villager",
+      "rare": true,
+      "text": "I survived a dragon once."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:villager",
+      "rare": true,
+      "text": "Nobody survives forever."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:villager",
+      "rare": true,
+      "text": "The world wasn't always like this."
+    }
+  ]
+}

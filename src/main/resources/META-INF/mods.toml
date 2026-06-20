@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+    modId="rlbubbles"
+    version="${file.jarVersion}"
+    displayName="RLBubbles"
+    description='''
+        Makes Minecraft feel alive: entities occasionally display short floating text above their
+        heads -- thoughts, warnings, jokes, and reactions to the world, in the spirit of RLCraft.
+        Fully data-driven (datapacks), works with any LivingEntity from any mod, text-only rendering.
+    '''
+    authors="EmeryTheModder"
+
+[[dependencies.rlbubbles]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rlbubbles]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

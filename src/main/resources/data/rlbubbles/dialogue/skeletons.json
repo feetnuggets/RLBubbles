@@ -1,0 +1,35 @@
+{
+  "entries": [
+    {
+      "weight": 10,
+      "entity": "minecraft:skeleton",
+      "text": "Hold still."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:skeleton",
+      "text": "Missed."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:skeleton",
+      "text": "Nice armor."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:skeleton",
+      "text": "That was intentional."
+    },
+    {
+      "weight": 2,
+      "entity": "minecraft:skeleton",
+      "rare": true,
+      "text": "Professional marksman."
+    },
+    {
+      "weight": 10,
+      "entity": "minecraft:stray",
+      "text": "Feel the cold."
+    }
+  ]
+}
